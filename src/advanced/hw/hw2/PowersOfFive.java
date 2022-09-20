@@ -2,7 +2,7 @@
 Необходимо вывести все положительные степени числа 5 которые меньше 10000, вывести результат возведения в степень.
  */
 
-package advanced.hw.hw3;
+package advanced.hw.hw2;
 
 public class PowersOfFive {
     public static void main(String[] args) {

@@ -4,7 +4,7 @@
 При написании программы можно использовать любые доступные знания.
  */
 
-package advanced.hw.hw4;
+package advanced.hw.hw3;
 
 public class Circle {
     public static void main(String[] args) {

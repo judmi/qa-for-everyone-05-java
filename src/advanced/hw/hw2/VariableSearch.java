@@ -7,7 +7,7 @@
 значение переменной меньше 5 или больше 40 - если предыдущие условие ложное
  */
 
-package advanced.hw.hw3;
+package advanced.hw.hw2;
 
 public class VariableSearch {
     public static void main(String[] args) {

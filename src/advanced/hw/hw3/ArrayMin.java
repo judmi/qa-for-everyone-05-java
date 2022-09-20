@@ -4,7 +4,7 @@ int[] array = {9, 2, 6, 4, 5, 12, 7, 8, 6};
 необходимо вывести минимальное значение массива.
  */
 
-package advanced.hw.hw4;
+package advanced.hw.hw3;
 
 public class ArrayMin {
 

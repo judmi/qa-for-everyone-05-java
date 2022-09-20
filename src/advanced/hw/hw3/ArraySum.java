@@ -5,7 +5,7 @@ int[] array = {9, 2, 6, 4, 5, 12, 7, 8, 6};
 
  */
 
-package advanced.hw.hw4;
+package advanced.hw.hw3;
 
 public class ArraySum {
     public static void main(String[] args) {

@@ -5,7 +5,7 @@ int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 
  */
 
-package advanced.hw.hw4;
+package advanced.hw.hw3;
 
 public class ArrayMean {
     public static void main(String[] args) {

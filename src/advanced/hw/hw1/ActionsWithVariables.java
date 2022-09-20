@@ -1,4 +1,4 @@
-package advanced.hw.hw2;
+package advanced.hw.hw1;
 
 public class ActionsWithVariables {
     public static void main(String[] args) {

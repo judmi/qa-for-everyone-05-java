@@ -5,7 +5,7 @@ a < b - если переменная a меньше b
 a > b - если переменная b меньше a
  */
 
-package advanced.hw.hw3;
+package advanced.hw.hw2;
 
 public class VariablesComparison {
     public static void main(String[] args) {

@@ -1,26 +1,25 @@
 /*
 Дан массив:
 int[][] array = {{1, 2, 3, 4, 5}, {6, 7, 8, 9}, {-1, -2, -3, -4}, {-5, -6}};
-необходимо вывести количество элементов в массиве.
+необходимо вывести сумму элементов массива.
  */
 
-package advanced.hw.hw4;
+package advanced.hw.hw3;
 
-public class MultiDimensionalArrayNumOfElements {
+public class MultiDimensionalArraySum {
     public static void main(String[] args) {
         int[][] array = {
                 {1, 2, 3, 4, 5},
                 {6, 7, 8, 9},
                 {-1, -2, -3, -4},
                 {-5, -6}};
-
-        int numOfElements = 0;
+        int sum = 0;
 
         for (int i = 0; i < array.length; i++) {
             for (int j = 0; j < array[i].length; j++) {
-                numOfElements++;
+                sum += array[i][j];
             }
         }
-        System.out.println(numOfElements);
+        System.out.println(sum);
     }
 }

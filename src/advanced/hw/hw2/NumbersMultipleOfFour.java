@@ -5,7 +5,7 @@
 без использования конструкции if (шаг цикла на ваше усмотрение).
  */
 
-package advanced.hw.hw3;
+package advanced.hw.hw2;
 
 public class NumbersMultipleOfFour {
     public static void main(String[] args) {

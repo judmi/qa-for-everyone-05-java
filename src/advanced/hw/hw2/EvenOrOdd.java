@@ -4,7 +4,7 @@ maybe a and b are even - если сумма переменных четная
 some variable is odd - если сумма переменных нечетная
  */
 
-package advanced.hw.hw3;
+package advanced.hw.hw2;
 
 public class EvenOrOdd {
     public static void main(String[] args) {
